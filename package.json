@@ -1,6 +1,7 @@
 {
   "name": "node-starter",
   "private": true,
+  "main":"BD6.6_CW/Sever.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
